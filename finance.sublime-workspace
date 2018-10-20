@@ -387,7 +387,7 @@
 			"file": "main.py",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 95,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -501,6 +501,8 @@
 	],
 	"file_history":
 	[
+		"/home/mallmann/Documentos/coding/Python/Finance/.gitignore",
+		"/home/mallmann/Documentos/coding/Python/Finance/finance.sublime-project",
 		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/user_posts.html",
 		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/routes.py",
 		"/home/mallmann/Documentos/coding/Python/Flask-Blog/flaskblog/templates/post.html",
@@ -632,15 +634,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 95,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								95,
+								95
 							]
 						],
 						"settings":
