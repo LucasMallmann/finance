@@ -1,0 +1,9 @@
+[*.py]
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+
+[*.{html, css, json}]
+indent_size = 2
+indent_style = space
+
