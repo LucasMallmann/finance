@@ -10,6 +10,9 @@ class Config(object):
 
     @staticmethod
     def init_app(app):
+        '''
+        Application Factory
+        '''
         pass
 
 class DevelopmentConfig(Config):
